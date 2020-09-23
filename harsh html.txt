@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+<body background="backgroung.jpg">
+<center>
+<h1>Gaming house</h1>
+</center>
+<h2 align="left">Popular</h2>
+<font size="50px">
+<p>God of War</p>
+<img src="god1.jpg" height="300px">
+<img src="god.png" height="300px">
+<img src="god2.jpeg" height="300px">
+<img src="god3.jpg" height="300px">
+<font size="40px">
+<p>price:1029</p>
+</font>
+<font size="20px">
+<p>kindly copy and paste the link given below</p>
+<font size="20px">
+<p>link given for purchasing: https://www.amazon.in/dp/B01GW8XOY2/ref=m_sw_r_cp_apa_i_EB1xFbRTS76W1</p>
